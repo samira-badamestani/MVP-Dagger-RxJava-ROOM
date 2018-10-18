@@ -1,2 +1,2 @@
-# MVP-Dagger-RxJava
-Example project how to design Android application with MVP architecture, using dagger2,Rxjava
+# MVP-Dagger-RxJava-ROOM
+Example project how to design Android application with MVP architecture, using dagger2,Rxjava,room
